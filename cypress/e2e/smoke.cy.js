@@ -1,6 +1,6 @@
-describe('empty spec', () => {
+describe('Smoke Test', () => {
   it('can view the home page', () => {
-    cy.visit('/');
-    cy.contains('Learn React');
+  cy.visit('/');
+  cy.contains('Learn React');
   });
-});
+  });
