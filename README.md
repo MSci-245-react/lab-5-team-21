@@ -1,6 +1,6 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13736754)
 # Opinion-ate
-An app for tracking reviews of dishes at different restaurants
+An app for tracking reviews of dishes at different restaurants.
 
 ## Production: https://lab-5-team-21.netlify.app/
 
