@@ -1,8 +1,9 @@
 import RestaurantScreen from './components/RestaurantScreen';
+
 export default function App() {
-return (
-<div>
-<RestaurantScreen />
-</div>
-);
+    return (
+        <div>
+            <RestaurantScreen />
+        </div>
+    );
 }
