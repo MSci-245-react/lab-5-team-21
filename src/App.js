@@ -1,5 +1,5 @@
 import Counter from './features/counter/Counter';
-import {IncrementByAmount} from './features/counter/IncrementByAmount';
+import IncrementByAmount from './features/counter/IncrementByAmount';
 
 export default function App() {
   return (
